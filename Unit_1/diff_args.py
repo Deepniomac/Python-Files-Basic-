@@ -1,3 +1,4 @@
+# Python Program to implement different arguments in function
 def calculate(a,b):
     sum_ = a + b
     diff_ = a - b
